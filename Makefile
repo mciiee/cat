@@ -1,4 +1,4 @@
-FILE = main
+FILE = cat
 SRC_DIR = src
 BUILD_DIR = build
 CFLAGS = -std=c11 -Wall
